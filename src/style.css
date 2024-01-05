@@ -4,8 +4,6 @@
 	--box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
-
-
 h1,
 h2,
 h3 {
@@ -105,4 +103,16 @@ p {
 	background: var(--primary-color);
 	box-shadow: var(--box-shadow);
 	color: white;
+	text-align: center;
+}
+.addMargin {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.about-h2 {
+	font-size: 96px;
+}
+.about-h3 {
+	font-size: 24px;
+	opacity: 0.7;
 }
