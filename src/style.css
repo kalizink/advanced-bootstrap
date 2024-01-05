@@ -129,4 +129,17 @@ img {
 .about-container {
 	margin-left: 50px;
 	margin-right: 50px;
+	margin-bottom: 20px;
+}
+.container {
+	margin-bottom: 20px;
+}
+footer {
+	text-align: center;
+	font-size: 15px;
+	margin-top: 40px;
+	opacity: 0.7;
+}
+a {
+	color: #6b62ff;
 }
