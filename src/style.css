@@ -160,4 +160,7 @@ footer {
 	.sm-link {
 		text-align: center;
 	}
+	h2 {
+		margin-top: 70px;
+	}
 }
