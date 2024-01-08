@@ -33,11 +33,12 @@ p {
 }
 img {
 	max-width: 100%;
+	border-radius: 10px;
 }
 a {
 	color: #6b62ff;
 }
-footer {
+s footer {
 	text-align: center;
 	font-size: 15px;
 	margin-top: 40px;
@@ -116,7 +117,6 @@ footer {
 	background: var(--primary-color);
 	box-shadow: var(--box-shadow);
 	color: white;
-	text-align: center;
 }
 
 .about-h2 {
@@ -152,5 +152,12 @@ footer {
 		font: 12px;
 		margin-top: 10px;
 		margin-bottom: 10px;
+	}
+
+	.text-link {
+		text-align: center;
+	}
+	.sm-link {
+		text-align: center;
 	}
 }
