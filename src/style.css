@@ -143,6 +143,7 @@ footer {
 @media (min-width: 390px) {
 	.about-h2 {
 		margin-top: 70px;
+		font-size: 60px;
 	}
 
 	.text-link {
@@ -153,5 +154,6 @@ footer {
 	}
 	h2 {
 		margin-top: 70px;
+
 	}
 }
