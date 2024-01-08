@@ -141,10 +141,11 @@ footer {
 	margin-bottom: 20px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 844) {
 	h1 {
-		font-size: 48px;
-		line-height: 1.5;
+		font-size: 40px;
+		/* line-height: 1.5px; */
+		;
 	}
 	h2 {
 		font-size: 36px;
