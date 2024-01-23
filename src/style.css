@@ -165,6 +165,9 @@ footer {
 .instagram-link {
 	color: white;
 }
+.border-radius {
+	border-radius: 11px;
+}
 @media (max-width: 844) {
 	h1 {
 		font-size: 40px;
