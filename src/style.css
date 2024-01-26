@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-	font-size: 48px;
+	font-size: 65px;
 }
 
 h3 {
@@ -108,18 +108,19 @@ footer {
 	flex-direction: column;
 }
 .project-text {
-	font-size: 18px;
+	font-size: 24px;
 	margin-bottom: 50px;
 }
 .text-link {
 	border-radius: 4px;
-	padding: 20px 15px;
+	padding: 25px 40px;
 	margin-top: 50px;
 	text-decoration: none;
 	text-transform: capitalize;
 	background: var(--primary-color);
 	box-shadow: var(--box-shadow);
 	color: white;
+	font-size: 23px;
 }
 
 .about-h2 {
@@ -171,6 +172,14 @@ footer {
 }
 .epn-button {
 	padding: 20px;
+}
+.trainzerize-text-format {
+	margin-top: 200px;
+	line-height: 50px;
+}
+.epn-text-format {
+	margin-top: 150px;
+	font-size: 50px;
 }
 @media (max-width: 900) {
 	h1 {
