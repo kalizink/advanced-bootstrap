@@ -109,9 +109,7 @@ footer {
 }
 .project-text {
 	font-size: 18px;
-	line-height: 90px;
 	margin-bottom: 50px;
-	margin-top: 0;
 }
 .text-link {
 	border-radius: 4px;
@@ -160,7 +158,7 @@ footer {
 	display: block;
 	margin: 0 auto;
 	width: 70px;
-	margin-top: 40px;
+	margin-top: 15px;
 }
 .instagram-link {
 	color: white;
@@ -168,7 +166,13 @@ footer {
 .border-radius {
 	border-radius: 11px;
 }
-@media (max-width: 844) {
+.epn-container h3 {
+	padding: 10px;
+}
+.epn-button {
+	padding: 20px;
+}
+@media (max-width: 900) {
 	h1 {
 		font-size: 40px;
 		line-height: 1.5px;
